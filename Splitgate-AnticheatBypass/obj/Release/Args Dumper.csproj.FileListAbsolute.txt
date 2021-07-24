@@ -1,0 +1,13 @@
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Release\Args Dumper.exe.config
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Release\Args Dumper.exe
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Release\Args Dumper.pdb
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Release\Args Dumper.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Release\Args Dumper.exe
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Release\Args Dumper.pdb
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\bin\Release\Args Dumper.exe.config
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\bin\Release\Args Dumper.exe
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\bin\Release\Args Dumper.pdb
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\obj\Release\Args Dumper.csproj.AssemblyReference.cache
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\obj\Release\Args Dumper.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\obj\Release\Args Dumper.exe
+C:\Users\Ender\source\repos\Splitgate-AnticheatBypass\Args Dumper\obj\Release\Args Dumper.pdb

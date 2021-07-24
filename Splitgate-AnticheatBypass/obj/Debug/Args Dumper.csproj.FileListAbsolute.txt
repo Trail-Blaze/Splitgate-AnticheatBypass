@@ -1,0 +1,7 @@
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Debug\Args Dumper.exe.config
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Debug\Args Dumper.exe
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\bin\Debug\Args Dumper.pdb
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Debug\Args Dumper.csproj.AssemblyReference.cache
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Debug\Args Dumper.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Debug\Args Dumper.exe
+C:\Users\Ender\source\repos\Args Dumper\Args Dumper\obj\Debug\Args Dumper.pdb
